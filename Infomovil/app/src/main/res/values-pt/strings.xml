@@ -12,4 +12,8 @@
     <string name="confirme_contrasena">Confirme contrasena</string>
     <string name="button_text_create_account">UNETE</string>
     <string name="tittle_crear_cuenta">Crear cuenta</string>
+    <string name="Migue_Marco_cardview">Miguel Marco</string>
+    <string name="hace_cardview">hace</string>
+    <string name="dias_cardview">" 4 dias"</string>
+
 </resources>
