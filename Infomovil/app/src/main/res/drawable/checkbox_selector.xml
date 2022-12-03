@@ -3,4 +3,5 @@
     <item android:drawable="@drawable/heart" android:state_checked="false"/>
     <item android:drawable="@drawable/heart_full" android:state_checked="true"/>
     <item android:drawable="@drawable/heart"/>
+
 </selector>

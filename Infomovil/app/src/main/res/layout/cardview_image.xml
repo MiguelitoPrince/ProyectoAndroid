@@ -13,7 +13,9 @@
             android:layout_height="match_parent"
             android:src="@drawable/imagen1"
             android:scaleType="centerCrop">
+
         </ImageView>
+
         <LinearLayout
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
