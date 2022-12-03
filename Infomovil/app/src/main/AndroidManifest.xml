@@ -29,6 +29,7 @@
             tools:ignore="DuplicateActivity">
             <meta-data
                 android:name="android.support.PARENT_ACTIVITY"
+
                 android:value=".LoginActivity"
 
                 />
