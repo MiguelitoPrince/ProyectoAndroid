@@ -12,4 +12,5 @@
     <dimen name="height_cardview">250dp</dimen>
     <dimen name="cprner_radio_cardview">20dp</dimen>
     <dimen name="margin_margin_cardview">10dp</dimen>
+    <dimen name="padding_cardview">10dp</dimen>
 </resources>

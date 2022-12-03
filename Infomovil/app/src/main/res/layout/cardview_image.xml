@@ -19,12 +19,13 @@
             android:layout_height="wrap_content"
             android:orientation="vertical"
             android:layout_gravity="bottom"
-            android:background="@color/background_cardview">
+            android:background="@color/background_cardview"
+            android:padding="@dimen/padding_cardview">
             <TextView
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:text="@string/Migue_Marco_cardview"
-                android:textSize="24sp"
+                android:textSize="22sp"
                 android:textColor="@color/editText_white"/>
             <androidx.appcompat.widget.LinearLayoutCompat
                 android:layout_width="match_parent"
@@ -34,13 +35,13 @@
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:text="@string/hace_cardview"
-                    android:textSize="15sp"
+                    android:textSize="13sp"
                     android:textColor="@color/editText_white"/>
                 <TextView
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:text="@string/dias_cardview"
-                    android:textSize="15sp"
+                    android:textSize="13sp"
                     android:textColor="@color/editText_white"/>
             </androidx.appcompat.widget.LinearLayoutCompat>
 
@@ -48,17 +49,15 @@
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:orientation="horizontal">
+                <CheckBox
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:button="@drawable/checkbox_selector"/>
                 <TextView
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
-                    android:text="@string/hace_cardview"
-                    android:textSize="18sp"
-                    android:textColor="@color/editText_white"/>
-                <TextView
-                    android:layout_width="wrap_content"
-                    android:layout_height="wrap_content"
-                    android:text="@string/dias_cardview"
-                    android:textSize="18sp"
+                    android:text="@string/me_gusta_cardview"
+                    android:textSize="20sp"
                     android:textColor="@color/editText_white"/>
             </androidx.appcompat.widget.LinearLayoutCompat>
         </LinearLayout>
